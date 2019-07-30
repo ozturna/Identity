@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+669b796bf0bfc8844a6b4239a6496bfdb611cf7c refs/remotes/origin/271828182846-aws
+b5563295a105897c2d6ac5e900d0d821f7b20e5b refs/remotes/origin/271828182846-bulletin
+82d8bec1454c58e77d30de41a11ba24268085d55 refs/remotes/origin/271828182846-minelaws
+74e7118aabb866397a8838490bd99d6cc8cf2be8 refs/remotes/origin/master
+f02b60185732ffdc293ffad89187fe8b48d4065d refs/tags/ATR
